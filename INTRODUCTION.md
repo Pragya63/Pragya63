@@ -1,1 +1,1 @@
-This GitHub repository showcases personal projects and learning exercises undertaken during my BCA studies. The code within may not always represent the most efficient or robust solutions. It is intended for educational and learning purposes only.
+
